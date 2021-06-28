@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+//import './scripts.js';
+//import "./styles.css"
+//import IndexView from "./views/IndexView";
+
+
 function App() {
   return (
     <div className="App">
